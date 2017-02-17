@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css?family=Dosis');
+body{
+	background-color: #d17171;
+}
+#quote{
+	font-size: 60px;
+	font-weight: bold;
+	font-family: Dosis;
+	color: GhostWhite;
+
+}
+
+#quotebox{
+	position:absolute;
+	margin-top: 200px;
+}
+
+#buttons{
+	position:absolute;
+	margin-top:700px;
+}
+
+#randomQuote{
+	margin-right: 20px;
+
+}
+
+footer {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  text-align: center;
+  font-family: Verdana;
+}
